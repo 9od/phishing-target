@@ -1,0 +1,189 @@
+'PayPal Inc.', 3482
+'Bank of America', 1959
+'Office365', 1496
+'DHL Airways/ Inc.', 1251
+'Yahoo! Inc', 1054
+'Apple Inc.', 665
+'Microsoft OneDrive', 449
+'Free ISP', 420
+'Match', 418
+'Netflix Inc.', 399
+'DGI French Tax Authority', 373
+'Outlook', 311
+'Chase Personal Banking', 272
+'Dropbox/ Inc.', 269
+'Stripe', 252
+'AT&T Inc.', 250
+'Canadian Imperial Bank of Commerce', 234
+'Societe Generale', 233
+'Wells Fargo & Company', 218
+'First Investment Bank', 207
+'Facebook/ Inc.', 192
+'eBay Inc.', 186
+'Alibaba', 176
+'International Card Services B.V', 172
+'Cox Communications', 170
+'ATB Financial', 143
+'Spectrum', 143
+'OurTime Dating', 134
+'Absa Group', 130
+'Google Inc.', 130
+'Adobe Inc.', 125
+'DocuSign', 125
+'Amazon.com Inc.', 124
+'WeTransfer', 120
+'ADP/ LLC', 116
+'LinkedIn Corporation', 114
+'Comcast Corporation', 88
+'Orange', 88
+'1&1 Ionos', 77
+'IRS', 72
+'Poste Italiane S.p.A', 65
+'RuneScape', 65
+'Navy Federal Credit Union', 60
+'AOL Inc.', 59
+'Itau Unibanco S.A', 59
+'Westpac Institutional Banking', 57
+'National Bank of Canada', 52
+'Simplii Financial', 52
+'Ooredoo QSC', 50
+'U.S. Bank', 50
+'American Express', 49
+'GoDaddy', 49
+'TPG Telecom', 49
+'French Health Insurance', 44
+'RBC Royal Bank', 39
+'Swisscom IT Services AG', 38
+'WhatsApp', 36
+'Spotify', 35
+'Grupo Santander', 33
+'United Services Automobile Association', 33
+'Credit Agricole S.A.', 31
+'Zoopla', 31
+'SNS Bank N.V.', 28
+'Swiss Post', 28
+'Generic/Spear Phishing', 27
+'Bank of Montreal', 25
+'Desjardins', 24
+'NBT Bank', 24
+'T-Online', 24
+'ASB Bank Limited', 23
+'SunTrust Bank', 23
+'Bouygues Telecom', 22
+'Deutsche Telekom', 22
+'Mastercard International Incorporated', 22
+'Sparkasse Bank', 22
+'Spark New Zealand', 21
+'Banco Safra', 20
+'Citrix ShareFile', 20
+'Cembra Money Bank AG', 19
+'MyEtherWallet', 18
+'PostFinance', 18
+'Scotiabank', 18
+'TradeKey', 18
+'CaixaBank', 17
+'Bet365', 16
+'EarthLink', 16
+'National Australia Bank Limited', 15
+'UBS AG', 15
+'UniCredit Bank Aktiengesellschaft', 15
+'AutoScout24', 14
+'BT Group plc', 14
+'Equa bank', 14
+'Etisalat', 14
+'Bank of New Zealand', 13
+'Cairo Amman Bank', 13
+'Landesbank Berlin AG', 13
+'Alaska USA Federal Credit Union', 12
+'Key Bank', 12
+'TD Bank Group', 12
+'Global Sources HK', 11
+'Rackspace', 11
+'Vodafone', 11
+'Banco do Brasil S.A.', 10
+'Blockchain', 10
+'M & T Bank Coporation', 10
+'Bankia', 9
+'POF', 9
+'Suncorp Metway Limited', 9
+'BB&T Corporation', 8
+'MWeb', 8
+'Universo Online', 8
+'Ziggo Holding B.V.', 8
+'Banco del Estado de Chile', 7
+'Mobile.de', 7
+'Sakura Internet', 7
+'Digital Federal Credit Union', 6
+'ICICI Bank Limited', 6
+'MBNA Corportation', 6
+'Naver', 6
+'Suncorp Group', 6
+'Bank Al Habib', 5
+'Bethpage Federal Credit Union', 5
+'Denmark Tax Authority', 5
+'Enel Energia S.p.A', 5
+'Luno', 5
+'Trade Me NZ', 5
+'Aruba S.p.A.', 4
+'Giffgaff', 4
+'Government of Canada', 4
+'IBC Bank', 4
+'ING', 4
+'Maersk', 4
+'NetEase', 4
+'Singtel Optus', 4
+'Telekom Brunei', 4
+'Allegro', 3
+'Banco de Chile', 3
+'BZSt', 3
+'Caixa Economica Federal', 3
+'Chronopost International', 3
+'Frontier Communications', 3
+'Senior People Meet', 3
+'URSSAF', 3
+'Verizon Wireless', 3
+'Visa International Service Association', 3
+'Americanas.com S/A Comercio Electrnico', 2
+'Bank of Scotland', 2
+'Caixa Geral de Depositos', 2
+'Daum', 2
+'Delta Air Lines', 2
+'Emirates NBD', 2
+'First National Bank SA', 2
+'Huntington Bank', 2
+'iiNet Limited', 2
+'Juno Online Services', 2
+'Lloyds TSB Group', 2
+'Nationwide Building Society', 2
+'NatWest Personal Banking', 2
+'NedBank Limited', 2
+'Royal KPN N.V.', 2
+'S-Bank', 2
+'SOCIETE FRANCAISE DU RADIOTELEPHONE', 2
+'TalkTalk Communications', 2
+'Telus', 2
+'TSB Bank Plc', 2
+'Uber', 2
+'Webmail Provider', 2
+'Banca Sella', 1
+'Bank of The Bahamas Limited', 1
+'Belize Bank', 1
+'BH Telecom', 1
+'CenturyLink', 1
+'Charities Aid Foundation', 1
+'Credit du Nord', 1
+'Credit Suisse AG', 1
+'Discover', 1
+'HSBC Bank', 1
+'Kiwibank Limited', 1
+'Made-In-China', 1
+'Meridian Credit Union', 1
+'Monmouth Telecom', 1
+'Neteller', 1
+'Online Services', 1
+'SF Express Co.', 1
+'Square/ Inc.', 1
+'Standard Chartered Bank', 1
+'Steam', 1
+'Telstra Corporation Limited', 1
+'The Vanguard Group', 1
