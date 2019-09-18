@@ -30,9 +30,10 @@ def test_system():
             ocr_boxes, yolo_boxes = predict_logo_boxes(image_path, input_size, num_classes, original_image,
                                                             return_tensors, sess)
 
-            # plot anchors
-            write_cropped_images(image_path, ocr_boxes, original_image, yolo_boxes)
+            # TODO retrieve images
+            image_list = write_cropped_images(image_path, ocr_boxes, original_image, yolo_boxes)
 
+            # TODO connect to Yuxuan
 
 
         except Exception as e:
