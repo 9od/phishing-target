@@ -1,0 +1,11 @@
+/image_similarity/siamese_network/resnet-model/same_euclidean_true/
+/image_similarity/siamese_network/resnet-model/same_euclidean_false/
+/image_similarity/siamese_network/resnet-model/diff_euclidean_true/
+/image_similarity/siamese_network/resnet-model/diff_euclidean_false/
+/image_similarity/siamese_network/three-layers-model/same_euclidean_true/
+/image_similarity/siamese_network/three-layers-model/same_euclidean_false/
+/image_similarity/siamese_network/three-layers-model/diff_euclidean_true/
+/image_similarity/siamese_network/three-layers-model/diff_euclidean_false/
+*.pb
+*/*.pyc
+*.pyc
